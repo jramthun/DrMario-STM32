@@ -13,7 +13,7 @@ Redesigned TFT-LCD driver to accommodate "non-standard" requirements such as:
 - Simultaneous, repeating audio (i.e., audio loops without stopping the game)
 
 ## Team Work
-Elijah Klien: starting up Audio via DMA
+Elijah Klein: starting up Audio via DMA
 Santiago Garcia: handling the layout and internal game controller
 
 ## Acknowledgements
